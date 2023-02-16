@@ -1,1 +1,1 @@
-# sibiaclimate.ai
+# sibiaclimate-ai
